@@ -1,3 +1,3 @@
 # Operating-System
-THE REPOSITORY IS CREATED FOR DOCUMENTATION PURPOSE.
-© 2018 KEITH NG ALL RIGHTS RESERVED
+This repository was created for documenting purposes
+© 2018 Keith Ng All Rights Reserved
